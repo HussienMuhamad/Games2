@@ -1,0 +1,10 @@
+Daten des Freizeitbades
+Name des Freizeitbads:			ertz
+Öffnungzeit des Freizeitbads:	1.0_2.0
+Beckenlänge des Freizeitbads:	3
+Wassertemperatur des Freizeitbads:4
+Daten des Freizeitbades
+Name des Freizeitbads:			rtuz
+Öffnungzeit des Freizeitbads:	1.0_2.0
+Beckenlänge des Freizeitbads:	3
+Wassertemperatur des Freizeitbads:4
